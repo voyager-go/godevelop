@@ -39,6 +39,23 @@ func (this *IndexController) AsynLoadPoetry() {
    <div class="pagination"></div>
  </div>
 ```
+```
+// css部分我复制了Bootstrap的样式对分页按钮进行美化
+/*分页栏样式*/
+.pagination span,.pagination a{
+    position: relative;
+    display: block;
+    padding: .5rem .75rem;
+    margin-left: -1px;
+    line-height: 1.25;
+    color: #667c99;
+    background-color: #fff;
+    border: 1px solid #dee2e6;
+}
+.pagination span{
+    background-color: #f7f7f9;
+}
+```
 #### js部分的代码主要是对我自己的dom结构进行封装的函数，读者可按照自己的需求来定制代码
 ```
 // js部分

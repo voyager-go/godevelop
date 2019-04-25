@@ -7,3 +7,4 @@
 #### 4. [使用beego时在模板中如何分页](https://github.com/youeryuango/godevelop/blob/master/%E4%BD%BF%E7%94%A8beego%E6%97%B6%E5%9C%A8%E6%A8%A1%E6%9D%BF%E4%B8%AD%E5%A6%82%E4%BD%95%E5%88%86%E9%A1%B5.md)
 #### 5. [使用beego时设置auto_now和auto_now_add规则发现时区不对怎么办](https://github.com/youeryuango/godevelop/blob/master/%E4%BD%BF%E7%94%A8beego%E6%97%B6%E8%AE%BE%E7%BD%AEauto_now%E5%92%8Cauto_now_add%E8%A7%84%E5%88%99%E5%8F%91%E7%8E%B0%E6%97%B6%E5%8C%BA%E4%B8%8D%E5%AF%B9%E6%80%8E%E4%B9%88%E5%8A%9E.md)
 #### 6. [beego的orm如何实现关联查询](https://github.com/youeryuango/godevelop/blob/master/beego%E7%9A%84orm%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E5%85%B3%E8%81%94%E6%9F%A5%E8%AF%A2.md)
+#### 7. [设置了unique唯一约束更新字段时如何忽略当前记录](https://github.com/youeryuango/godevelop/blob/master/%E8%AE%BE%E7%BD%AE%E4%BA%86unique%E5%94%AF%E4%B8%80%E7%BA%A6%E6%9D%9F%E6%9B%B4%E6%96%B0%E5%AD%97%E6%AE%B5%E6%97%B6%E5%A6%82%E4%BD%95%E5%BF%BD%E7%95%A5%E5%BD%93%E5%89%8D%E8%AE%B0%E5%BD%95.md)

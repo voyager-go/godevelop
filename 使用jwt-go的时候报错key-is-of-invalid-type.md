@@ -1,5 +1,5 @@
 ##### 什么是jwt-go ?
-##### 可以理解json web tokens的golang实现
+##### 可以理解为json web tokens的golang实现
 ##### https://github.com/dgrijalva/jwt-go
 ##### 作者在使用jwt-go的时候遇到了一个报错
 ```

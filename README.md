@@ -12,3 +12,4 @@
 #### 9. [自己编写一个beego项目的自动化部署脚本](https://github.com/youeryuango/godevelop/blob/master/%E8%87%AA%E5%B7%B1%E7%BC%96%E5%86%99%E4%B8%80%E4%B8%AAbeego%E9%A1%B9%E7%9B%AE%E7%9A%84%E8%87%AA%E5%8A%A8%E5%8C%96%E9%83%A8%E7%BD%B2%E8%84%9A%E6%9C%AC.md)
 #### 10. [安装goquery失败怎么办](https://github.com/youeryuango/godevelop/blob/master/%E5%AE%89%E8%A3%85goquery%E5%A4%B1%E8%B4%A5%E6%80%8E%E4%B9%88%E5%8A%9E.md)
 #### 11. [使用gorm的时候遇到错误runtime error: invalid memory address or nil pointer dereference](https://github.com/youeryuango/godevelop/blob/master/%E4%BD%BF%E7%94%A8gorm%E7%9A%84%E6%97%B6%E5%80%99%E6%8A%A5%E9%94%99invalid-memory-address-or-nil-pinter-dereference.md)
+#### 12. [使用jwt-go的时候报错key is of invalid type](https://github.com/youeryuango/godevelop/blob/master/%E4%BD%BF%E7%94%A8jwt-go%E7%9A%84%E6%97%B6%E5%80%99%E6%8A%A5%E9%94%99key-is-of-invalid-type.md)

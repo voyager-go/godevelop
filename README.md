@@ -11,3 +11,4 @@
 #### 8. [如何使用nginx配置代理部署Go项目到linux服务器](https://github.com/youeryuango/godevelop/blob/master/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8nginx%E9%85%8D%E7%BD%AE%E4%BB%A3%E7%90%86%E9%83%A8%E7%BD%B2Go%E9%A1%B9%E7%9B%AE%E5%88%B0linux%E6%9C%8D%E5%8A%A1%E5%99%A8.md)
 #### 9. [自己编写一个beego项目的自动化部署脚本](https://github.com/youeryuango/godevelop/blob/master/%E8%87%AA%E5%B7%B1%E7%BC%96%E5%86%99%E4%B8%80%E4%B8%AAbeego%E9%A1%B9%E7%9B%AE%E7%9A%84%E8%87%AA%E5%8A%A8%E5%8C%96%E9%83%A8%E7%BD%B2%E8%84%9A%E6%9C%AC.md)
 #### 10. [安装goquery失败怎么办](https://github.com/youeryuango/godevelop/blob/master/%E5%AE%89%E8%A3%85goquery%E5%A4%B1%E8%B4%A5%E6%80%8E%E4%B9%88%E5%8A%9E.md)
+#### 11. [使用gorm的时候遇到错误runtime error: invalid memory address or nil pointer dereference](https://github.com/youeryuango/godevelop/blob/master/%E4%BD%BF%E7%94%A8gorm%E7%9A%84%E6%97%B6%E5%80%99%E6%8A%A5%E9%94%99invalid-memory-address-or-nil-pinter-dereference.md)
